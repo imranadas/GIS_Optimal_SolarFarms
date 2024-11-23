@@ -1,0 +1,21 @@
+# Core GIS packages
+earthengine-api
+geemap
+geopandas
+rasterio
+osmnx
+folium
+
+# Scientific computing
+numpy
+scipy
+
+# General utilities
+python-dotenv
+
+# Optional but recommended
+jupyter
+matplotlib
+
+# For elevation data processing
+requests
